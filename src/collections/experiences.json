@@ -1,23 +1,23 @@
 [
 	{
-		"dates": "June 2018 · Present",
+		"dates": "March 2024 · Present",
 		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
+		"company": "Afriq silicon",
+		"description": "Responsible for UI/UX Designs.",
 		"logo": "/assets/images/experiences/fta.ico"
 	},
 	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
+		"dates": "May 2022 · August 2022",
+		"role": "IT Support Operator",
+		"company": "USIU-Africa!",
+		"description": "intern,Responsible for multimedia,infrastucture and service delively.",
 		"logo": "/assets/images/experiences/yoho.ico"
 	},
 	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
+		"dates": "September 2021 · July 2022 ",
+		"role": "Front-end ",
+		"company": "Freelance",
+		"description": " involved in the development of static pages .",
 		"logo": "/assets/images/experiences/wulian.ico"
 	}
 ]
